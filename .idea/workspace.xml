@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa9ee485-418e-44cf-9e15-1725210fccc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jRWZnDIMpeSpf1FuCCIKWexAEx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xiaohe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9ee485-418e-44cf-9e15-1725210fccc8" name="Default Changelist" comment="" />
+      <created>1603767442503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603767442503</updated>
+      <workItem from="1603767443694" duration="805000" />
+      <workItem from="1603782431657" duration="321000" />
+      <workItem from="1603782799655" duration="761000" />
+      <workItem from="1603783612338" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1603783720075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603783720075" />
+    <state x="771" y="443" key="Github.CreateGistDialog" timestamp="1603783743474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="771" y="443" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603783743474" />
+    <state x="832" y="422" key="Github.ShareDialog" timestamp="1603783534263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603783534263" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1603783644636">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603783644636" />
+    <state x="790" y="315" key="svn.repositoryBrowser" timestamp="1603783722332">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="790" y="315" key="svn.repositoryBrowser/0.0.1920.1050@0.0.1920.1050" timestamp="1603783722332" />
+    <state x="808" y="425" key="svn.upgradeDialog" timestamp="1603783660821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="808" y="425" key="svn.upgradeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603783660821" />
+    <state x="790" y="286" key="svn4idea.import.options" timestamp="1603783721460">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="790" y="286" key="svn4idea.import.options/0.0.1920.1050@0.0.1920.1050" timestamp="1603783721460" />
+  </component>
+</project>
